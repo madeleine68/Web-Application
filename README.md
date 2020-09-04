@@ -1,2 +1,2 @@
-# Web-Application
-Create an web applicatio with Django
+# Web Application
+Create a web applicatio with Django
